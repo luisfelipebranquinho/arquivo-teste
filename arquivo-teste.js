@@ -1,4 +1,4 @@
-let variavel = 30
+let variavel = 10
 let final = quadrado();
 
 function quadrado(){
