@@ -3,7 +3,4 @@ let final = quadrado();
 
 function quadrado(){
     let resultado = variavel * variavel;
-    return resultado
-}
-
-// Refazendo
+    return resugi
