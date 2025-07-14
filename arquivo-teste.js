@@ -9,10 +9,3 @@ function quadrado(){
 quadrado();
 
 console.log(final);
-
-// alteracao teste 1
-// commit 1
-// adicionado oque eu esqueci
-let vadr = 1110
-let vadrr = 1111
-let mais = 10
